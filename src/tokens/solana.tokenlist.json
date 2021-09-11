@@ -183,6 +183,20 @@
     },
     {
       "chainId": 101,
+      "address": "3k4VeDTAztmuMKgEAXaqbPnEaPG4LsZm37cZnBoqbPTu",
+      "symbol": "XA",
+      "name": "XA",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/cvmmdtk/xa/main/icon.png",
+      "tags": [
+        "tokenized-stock"
+      ],
+      "extensions": {
+        
+      }
+    },
+    {
+      "chainId": 101,
       "address": "HNXTQPd5FkGX7USMufrxkvUQkTGmNFxVYCnAhuR941mm",
       "symbol": "DOWIT",
       "name": "DOWIT",
